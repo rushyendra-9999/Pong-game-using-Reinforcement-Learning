@@ -24,7 +24,7 @@ Libraries required:
 # Running the code:
 
 1) Install a Python IDE such as Visual Studio Code or Pycharm. 
-2) Run the code pong_main.py
+2) Run the code pong.py in terminal using "python3 pong.py".
 
 # Output:
 Game will run for nearly 20,000 episodes. After executing for 20,000 episodes a graph will appear on the screen.
